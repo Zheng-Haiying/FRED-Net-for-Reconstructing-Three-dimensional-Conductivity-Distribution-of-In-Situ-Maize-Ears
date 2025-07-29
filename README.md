@@ -15,4 +15,4 @@ The networks folder contains multiple comparison models including ResUNet.
 
 ——5."requirements.txt" contains the required packages.
 
-If you have any questions about the code, please contact us promptly. Due to the large size of the datasets, we have not uploaded them to the repository, please understand. You can create the required datasets based on EIDORS“https://eidors3d.sourceforge.net/tutorial/tutorial.shtml” using the dataset generation code.
+If you have any questions about the code, please contact us promptly. Due to the large size of the datasets, we have not uploaded them to the repository, please understand. You can create the required datasets based on EIDORS “https://eidors3d.sourceforge.net/tutorial/tutorial.shtml”  using the dataset generation code.
